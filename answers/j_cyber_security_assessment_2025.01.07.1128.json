@@ -1,0 +1,66 @@
+{
+  "user_name": "j",
+  "timestamp": "2025.01.07.1128",
+  "responses": [
+    {
+      "question_id": "pass_1",
+      "category": "Password Security",
+      "question": "How often do you change your passwords?",
+      "answer": "Every few months"
+    },
+    {
+      "question_id": "pass_2",
+      "category": "Password Security",
+      "question": "Do you use different passwords for different accounts?",
+      "answer": "Most accounts have unique passwords"
+    },
+    {
+      "question_id": "mfa_1",
+      "category": "Multi-Factor Authentication",
+      "question": "Do you use two-factor authentication when available?",
+      "answer": "On some important accounts"
+    },
+    {
+      "question_id": "net_1",
+      "category": "Network Security",
+      "question": "How do you handle public Wi-Fi networks?",
+      "answer": "I use them but avoid sensitive transactions"
+    },
+    {
+      "question_id": "upd_1",
+      "category": "System Updates",
+      "question": "How do you manage software updates?",
+      "answer": "I install them within a few days"
+    },
+    {
+      "question_id": "bkp_1",
+      "category": "Data Backup",
+      "question": "How often do you backup your important data?",
+      "answer": "Regular manual backups"
+    },
+    {
+      "question_id": "phi_1",
+      "category": "Phishing Awareness",
+      "question": "How do you handle unexpected emails with links?",
+      "answer": "I verify the sender's email carefully"
+    },
+    {
+      "question_id": "dev_1",
+      "category": "Device Security",
+      "question": "How do you secure your mobile devices?",
+      "answer": "Biometric authentication"
+    },
+    {
+      "question_id": "soc_1",
+      "category": "Social Media",
+      "question": "What information do you share on social media?",
+      "answer": "Limited personal information"
+    },
+    {
+      "question_id": "enc_1",
+      "category": "Data Encryption",
+      "question": "Do you encrypt sensitive files or communications?",
+      "answer": "For some sensitive data"
+    }
+  ]
+}

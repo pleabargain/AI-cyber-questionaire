@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": "pass_1",
+      "category": "Password Security",
+      "question": "How often do you change your passwords?",
+      "type": "multiple_choice",
+      "options": [
+        "Never",
+        "Only when required",
+        "Every few months",
+        "Monthly or more frequently"
+      ]
+    },
+    {
+      "id": "pass_2",
+      "category": "Password Security",
+      "question": "Do you use different passwords for different accounts?",
+      "type": "multiple_choice",
+      "options": [
+        "No, I use the same password everywhere",
+        "I have a few different passwords I rotate",
+        "Most accounts have unique passwords",
+        "Every account has a unique password"
+      ]
+    },
+    {
+      "id": "mfa_1",
+      "category": "Multi-Factor Authentication",
+      "question": "Do you use two-factor authentication when available?",
+      "type": "multiple_choice",
+      "options": [
+        "Never",
+        "Only when required",
+        "On some important accounts",
+        "On all accounts that offer it"
+      ]
+    },
+    {
+      "id": "net_1",
+      "category": "Network Security",
+      "question": "How do you handle public Wi-Fi networks?",
+      "type": "multiple_choice",
+      "options": [
+        "I connect to any available network",
+        "I only connect to networks I recognize",
+        "I use them but avoid sensitive transactions",
+        "I always use a VPN on public networks"
+      ]
+    },
+    {
+      "id": "upd_1",
+      "category": "System Updates",
+      "question": "How do you manage software updates?",
+      "type": "multiple_choice",
+      "options": [
+        "I ignore them",
+        "I install them when convenient",
+        "I install them within a few days",
+        "I install them immediately"
+      ]
+    },
+    {
+      "id": "bkp_1",
+      "category": "Data Backup",
+      "question": "How often do you backup your important data?",
+      "type": "multiple_choice",
+      "options": [
+        "Never",
+        "Occasionally when I remember",
+        "Regular manual backups",
+        "Automatic continuous backup"
+      ]
+    },
+    {
+      "id": "phi_1",
+      "category": "Phishing Awareness",
+      "question": "How do you handle unexpected emails with links?",
+      "type": "multiple_choice",
+      "options": [
+        "I click if it looks interesting",
+        "I check if the sender looks familiar",
+        "I verify the sender's email carefully",
+        "I never click links in unexpected emails"
+      ]
+    },
+    {
+      "id": "dev_1",
+      "category": "Device Security",
+      "question": "How do you secure your mobile devices?",
+      "type": "multiple_choice",
+      "options": [
+        "No security measures",
+        "Basic PIN or pattern",
+        "Biometric authentication",
+        "Biometric plus PIN/password"
+      ]
+    },
+    {
+      "id": "soc_1",
+      "category": "Social Media",
+      "question": "What information do you share on social media?",
+      "type": "multiple_choice",
+      "options": [
+        "Everything about my life",
+        "Most things but not sensitive info",
+        "Limited personal information",
+        "Minimal information with strict privacy settings"
+      ]
+    },
+    {
+      "id": "enc_1",
+      "category": "Data Encryption",
+      "question": "Do you encrypt sensitive files or communications?",
+      "type": "multiple_choice",
+      "options": [
+        "Never",
+        "Only when required",
+        "For some sensitive data",
+        "Always for all sensitive data"
+      ]
+    }
+  ]
+}

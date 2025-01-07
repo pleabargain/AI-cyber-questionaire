@@ -1,0 +1,40 @@
+{
+  "user_name": "test",
+  "timestamp": "2025.01.07.1125",
+  "report": {
+    "assessment": {
+      "overall": "The user demonstrates a moderate level of cyber security awareness with some good practices in place but room for improvement in certain areas.",
+      "strengths": [
+        "Regular password changes every few months",
+        "Uses unique passwords for most accounts",
+        "Careful handling of suspicious emails",
+        "Uses biometric authentication for mobile devices",
+        "Practices data encryption for sensitive information"
+      ],
+      "areas_for_improvement": [
+        "Two-factor authentication usage is limited",
+        "Public Wi-Fi security practices could be stronger",
+        "Software update management could be more prompt",
+        "Backup strategy could be more automated"
+      ]
+    },
+    "recommendations": {
+      "critical": [
+        "Enable two-factor authentication on all accounts that offer it",
+        "Use a VPN when connecting to public Wi-Fi networks",
+        "Install software updates immediately when available"
+      ],
+      "important": [
+        "Consider using a password manager to maintain unique passwords for all accounts",
+        "Set up automatic, continuous backup solutions",
+        "Implement full-disk encryption"
+      ],
+      "good_practices_to_continue": [
+        "Regular password changes",
+        "Careful email link verification",
+        "Limited social media information sharing"
+      ]
+    },
+    "conclusion": "While the user has established several good security practices, implementing the recommended improvements would significantly enhance their overall cyber security posture. Focus should be placed on expanding two-factor authentication usage, improving public Wi-Fi security, and automating both updates and backups."
+  }
+}

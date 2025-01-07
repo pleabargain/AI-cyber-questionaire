@@ -1,6 +1,24 @@
 # Cyber Security Knowledge Assessment System
 
+
+# repo
+https://github.com/pleabargain/AI-cyber-questionaire
+
+#what
 This system assesses personal cyber security knowledge through a questionnaire and provides AI-generated recommendations for improvement.
+
+#how
+I built this using cursor and cline. I used a variety of API calls to openrouter and anthropic. I chose Ollama for the report generation because it is cheap and cyber security is a big topic and everyone should know about it.
+
+#why
+I built this because I want to help people understand cyber security and how to protect themselves. I believe that everyone should know about cyber security and how to protect themselves. 
+
+#where to use this
+This can be used by anyone who wants to know about cyber security and how to protect themselves. Take a cyber security course to know more about it.
+
+#caveats
+This is a simple system and it is not perfect. It is a good starting point and it is a good way to understand cyber security. It is not a comprehensive system and it is not a good way to get a job in cyber security. It is a good way to understand cyber security and how to protect yourself.
+
 
 ## Features
 
